@@ -53,6 +53,81 @@
     </mj-style>
   </mj-head>
   <mj-body background-color="#efefef">
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column width="50%">
+        <mj-image padding="0" fluid-on-mobile="true" border="none" width="481px" src="https://i.ibb.co/9gg9L5N/02diet-JPO14122024.jpg"></mj-image>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text mj-class="T+2">Formations Diététique</mj-text>
+        <mj-text mj-class="T+1">BTS Diététique Nutrition</mj-text>
+        <mj-text mj-class="T+1">Bachelor</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" direction="rtl" padding="0">
+      <mj-column width="50%">
+        <mj-image padding="0" fluid-on-mobile="true" border="none" width="481px" src="https://i.ibb.co/PGNXJB4/01img-JPO14122024.jpg"></mj-image>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text mj-class="T+2">Formations Hôtellerie</mj-text>
+        <mj-text mj-class="T+1">Mise à Niveau</mj-text>
+        <mj-text mj-class="T+1">BTS</mj-text>
+        <mj-text mj-class="T+1">Bachelor</mj-text>
+        <mj-text mj-class="T+1">Mastère</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column width="50%">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="481px" src="https://i.ibb.co/3R4dfD0/03tourisme14122024.jpg"></mj-image>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text mj-class="T+2">Formations Tourisme</mj-text>
+        <mj-text mj-class="T+1">BTS</mj-text>
+        <mj-text mj-class="T+1">Bachelor</mj-text>
+        <mj-text mj-class="T+1">Mastère</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0" direction="rtl">
+      <mj-column width="50%">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" src="https://i.ibb.co/vdr8Bs4/04assurancejpo14122024.jpg"></mj-image>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text mj-class="T+2">Formations Assurance</mj-text>
+        <mj-text mj-class="T+1">BTS</mj-text>
+        <mj-text mj-class="T+1">Bachelor</mj-text>
+        <mj-text mj-class="T+1">Mastère</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column width="50%">
+        <mj-image padding="0" border="none" src="https://i.ibb.co/LJcZZW5/01-Commerce14122024-02.jpg"></mj-image>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text mj-class="T+2">Commerce Immobilier</mj-text>
+        <mj-text mj-class="T+1">BTS</mj-text>
+        <mj-text mj-class="T+1">BTS</mj-text>
+        <mj-text mj-class="T+1">Bachelor</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" direction="rtl" padding="0">
+      <mj-column width="50%">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="481px" src="https://i.ibb.co/Q6Fg7VW/02sm14122024.jpg"></mj-image>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text mj-class="T+2">Santé Humaine</mj-text>
+        <mj-text mj-class="T+1">Secrétaire médical(e)</mj-text>
+        <mj-text mj-class="T+1">AEPE</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column width="50%">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="481px" src="https://i.ibb.co/8DhSw8c/02supveto14122024.jpg"></mj-image>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text mj-class="T+2">Supveto</mj-text>
+        <mj-text mj-class="T+1">Auxiliaire de Service Vétérinaire</mj-text>
+        <mj-text mj-class="T+1">Bachelor</mj-text>
+      </mj-column>
+    </mj-section>
     <mj-section background-color="#dfdfdf" padding="0">
       <mj-column width="40%" vertical-align="middle">
         <mj-image padding="0" fluid-on-mobile="true" width="600px" src="https://i.ibb.co/9GXp0fS/carte-JPO14122024.jpg" href="https://www.google.com/maps/dir//+50.72123+,+3.15686" target="_blank" alt="carte des transports permettant d'aller à Ecosup Campus"></mj-image>
