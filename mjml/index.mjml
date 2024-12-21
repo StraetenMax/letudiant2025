@@ -1,0 +1,87 @@
+
+<mjml>
+  <mj-head>
+    <mj-title>Email Etudiant 2025</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;700;900&amp;display=swap"></mj-font>
+    <mj-raw>
+      <meta name='color-scheme' content='light'/>
+      <meta name='supported-color-schemes' content='light'/>
+      <meta name="format-detection" content="telephone=no"/>
+      <meta name="format-detection" content="date=no"/>
+      <meta name="format-detection" content="address=no"/>
+      <meta name="format-detection" content="email=no"/>
+    </mj-raw>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Arial, Helvetica,sans serif"/>
+      <mj-class name="T+3" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="36px" line-height="36px" font-weight="900"/>
+      <mj-class name="T+2" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="24px" line-height="28px" font-weight="700"/>
+      <mj-class name="T+1" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="16px" line-height="20px" font-weight="700"/>
+      <mj-class name="T" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="16px" line-height="20px" font-weight="400"/>
+      <mj-class name="T-1" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="13px" line-height="15px" font-weight="400"/>
+      <mj-class name="T-2" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="12px" line-height="16px" font-weight="400"/>
+      <mj-class name="L" align="left" border-style="solid" border-width="0.75px" width="80px" padding="10px 0"></mj-class>
+      <mj-class name="cT+1" color="#14141f" border-color="#14141f"/>
+      <mj-class name="cT+0" color="#626262"/>
+      <mj-class name="c-0" color="#c31718"/>
+      <mj-class name="bg-0" background-color="#c31718"/>
+      <mj-class name="c+1" color="#a01a1d"/>
+      <mj-class name="bg+1" background-color="#a01a1d"/>
+    </mj-attributes>
+    <mj-breakpoint width="480px"></mj-breakpoint>
+    <mj-style>
+      .c11{
+          color: #a01a1d !important;
+      }
+      .cT00{
+          color: #626262 !important;
+      }
+      
+      @media(max-width:480px){
+          .m-footer div{
+              text-align: center !important;
+              width: 100% !important;
+          }
+          .m-footer1 {
+              text-align: center !important;
+              width: 100% !important;
+              padding-top:10px !important;
+          }
+          .stop{
+              display: none !important;
+          }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#efefef">
+    <mj-section background-color="#dfdfdf" padding="0">
+      <mj-column width="40%" vertical-align="middle">
+        <mj-image padding="0" fluid-on-mobile="true" width="600px" src="https://i.ibb.co/9GXp0fS/carte-JPO14122024.jpg" href="https://www.google.com/maps/dir//+50.72123+,+3.15686" target="_blank" alt="carte des transports permettant d'aller à Ecosup Campus"></mj-image>
+      </mj-column>
+      <mj-column width="60%" vertical-align="middle">
+        <mj-text mj-class="T+1 c+1" text-transform="uppercase">Comment s'y rendre ?</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" mj-class="T cT+1"><strong class="c11">Accès Métro :</strong> Ligne 2 - station Tourcoing Centre.</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" mj-class="T cT+1"><strong class="c11">Accès Tramway :</strong> Terminus Tourcoing Centre.</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" mj-class="T cT+1"><strong class="c11">Accès Bus :</strong> Gare routière de Tourcoing.</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" mj-class="T cT+1"><strong class="c11">Accès Train :</strong> Gare de Tourcoing puis station de Métro Tourcoing Centre</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" mj-class="T cT+1"><strong class="c11">Accès Voiture :</strong> Tourcoing centre.</mj-text>
+        <mj-spacer height="10px"/>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="bg-0" padding-bottom="40px" border-radius="0 0 20px 20px">
+      <mj-column width="265px">
+        <mj-text padding-top="0" padding-bottom="0" font-size="16px" font-weight="900" color="#ffffff" css-class="m-footer">ECOSUP CAMPUS</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" mj-class="T-1" color="#ffffff" css-class="m-footer">17 Place Charles et Albert Roussel,</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" mj-class="T-1" color="#ffffff" css-class="m-footer">59200 TOURCOING</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" mj-class="T-1" css-class="m-footer"><a style="font-weight:700;text-decoration:none;color:#ffffff" href="tel:0320700606">03.20.70.06.06</a></mj-text>
+        <mj-text padding-top="0" padding-bottom="0" mj-class="T-1" css-class="m-footer"><a style="text-decoration:none;color:#ffffff" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
+      </mj-column>
+      <mj-column width="265px">
+        <mj-social padding-top="0" padding-bottom="0" align="right" inner-padding="10px" icon-size="30px" mode="horizontal" css-class="m-footer1">
+          <mj-social-element mj-class="bg+1" name="facebook" href="https://www.facebook.com/EcosupCamp"></mj-social-element>
+          <mj-social-element mj-class="bg+1" name="instagram" href="https://www.instagram.com/ecosup.campus/"></mj-social-element>
+          <mj-social-element mj-class="bg+1" name="linkedin" href="https://fr.linkedin.com/company/ecosup-campus"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
