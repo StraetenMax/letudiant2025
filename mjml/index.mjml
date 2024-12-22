@@ -54,9 +54,20 @@
   </mj-head>
   <mj-body background-color="#efefef">
     <mj-section mj-class="bg+1" padding="0">
-      <mj-image padding="0" border="none" src="https://i.ibb.co/L5NQDCr/ImageG.jpg"></mj-image>
-      <mj-text mj-class="T+2"> Samedi 25 janvier à Ecosup</mj-text>
-      <mj-text mj-class="T+3"> Rencontres d'un autre type pour que l'avenir soit entre vos mains !</mj-text>
+      <mj-group>
+        <mj-column width="30%">
+          <mj-image padding="0" border="none" src="https://i.ibb.co/M6HZFB0/img-JPO25012025.jpg"></mj-image>
+        </mj-column>
+        <mj-column width="70%">
+          <mj-image padding="0" border="none" src="https://i.ibb.co/L5NQDCr/ImageG.jpg"></mj-image>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="T+2"> Samedi 25 janvier à Ecosup</mj-text>
+        <mj-text mj-class="T+3"> Rencontres d'un autre type pour que l'avenir soit entre vos mains !</mj-text>
+      </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px">
       <mj-column>
@@ -67,78 +78,78 @@
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="0">
-      <mj-column width="50%">
-        <mj-image padding="0" fluid-on-mobile="true" border="none" width="481px" src="https://i.ibb.co/9gg9L5N/02diet-JPO14122024.jpg"></mj-image>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-image padding="0" fluid-on-mobile="true" border="none" width="481px" src="https://i.ibb.co/PGNXJB4/01img-JPO14122024.jpg" alt=""></mj-image>
       </mj-column>
-      <mj-column width="50%">
-        <mj-text mj-class="T+2">Formations Diététique</mj-text>
-        <mj-text mj-class="T+1">BTS Diététique Nutrition</mj-text>
-        <mj-text mj-class="T+1">Bachelor</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" direction="rtl" padding="0">
-      <mj-column width="50%">
-        <mj-image padding="0" fluid-on-mobile="true" border="none" width="481px" src="https://i.ibb.co/PGNXJB4/01img-JPO14122024.jpg"></mj-image>
-      </mj-column>
-      <mj-column width="50%">
-        <mj-text mj-class="T+2">Formations Hôtellerie</mj-text>
-        <mj-text mj-class="T+1">Mise à Niveau</mj-text>
-        <mj-text mj-class="T+1">BTS</mj-text>
-        <mj-text mj-class="T+1">Bachelor</mj-text>
-        <mj-text mj-class="T+1">Mastère</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding="0">
-      <mj-column width="50%">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" width="481px" src="https://i.ibb.co/3R4dfD0/03tourisme14122024.jpg"></mj-image>
-      </mj-column>
-      <mj-column width="50%">
-        <mj-text mj-class="T+2">Formations Tourisme</mj-text>
-        <mj-text mj-class="T+1">BTS</mj-text>
-        <mj-text mj-class="T+1">Bachelor</mj-text>
-        <mj-text mj-class="T+1">Mastère</mj-text>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-text mj-class="T+2" padding-bottom="0">Hôtellerie / Restauration</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">MAN</span> Mise à Niveau</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700,">BTS</span> Management de l'Hôtellerie / Restauration</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">Bachelor</span> Chargé(e) de gestion commerciale en hôtellerie</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">Mastère</span> Manager des organisations en hôtellerie</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="0" direction="rtl">
-      <mj-column width="50%">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" src="https://i.ibb.co/vdr8Bs4/04assurancejpo14122024.jpg"></mj-image>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="481px" src="https://i.ibb.co/3R4dfD0/03tourisme14122024.jpg" alt=""></mj-image>
       </mj-column>
-      <mj-column width="50%">
-        <mj-text mj-class="T+2">Formations Assurance</mj-text>
-        <mj-text mj-class="T+1">BTS</mj-text>
-        <mj-text mj-class="T+1">Bachelor</mj-text>
-        <mj-text mj-class="T+1">Mastère</mj-text>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-text mj-class="T+2" padding-bottom="0">Tourisme</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700">BTS</span> Tourisme</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">Bachelor</span> Chargé(e) de gestion commerciale en tourisme</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">Mastère</span> Management stratégique des entreprises du tourisme</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="0">
-      <mj-column width="50%">
-        <mj-image padding="0" border="none" src="https://i.ibb.co/LJcZZW5/01-Commerce14122024-02.jpg"></mj-image>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="481px" src="https://i.ibb.co/LJcZZW5/01-Commerce14122024-02.jpg" alt=""></mj-image>
       </mj-column>
-      <mj-column width="50%">
-        <mj-text mj-class="T+2">Commerce Immobilier</mj-text>
-        <mj-text mj-class="T+1">BTS</mj-text>
-        <mj-text mj-class="T+1">BTS</mj-text>
-        <mj-text mj-class="T+1">Bachelor</mj-text>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-text mj-class="T+2" padding-bottom="0">Commerce / Immobilier</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">BTS</span> Professions immobilières</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">BTS</span> Management commercial opérationnel</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">Bachelor</span> Responsable du Développement commercial</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0" direction="rtl">
+      <mj-column width="50%" vertical-align="middle"> 
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="481px" src="https://i.ibb.co/vdr8Bs4/04assurancejpo14122024.jpg" alt=""></mj-image>
+      </mj-column>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-text mj-class="T+2" padding-bottom="0">Assurance / Banque</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">BTS</span> Assurance</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">Bachelor</span> Chargé(e) de clientèles en Assurance et Banque</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">Mastère</span> Expert(e) en Ingénierie patrimoniale</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column width="50%" vertical-align="middle">
+        <mj-image padding="0" fluid-on-mobile="true" border="none" width="481px" src="https://i.ibb.co/9gg9L5N/02diet-JPO14122024.jpg" alt=""></mj-image>
+      </mj-column>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-text mj-class="T+2" padding-bottom="0">Diététique / Nutrition</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">BTS</span> Diététique Nutrition</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">Bachelor</span> Chargé(e) de projet en nutrition et de la Prise en charge des Troubles du Comportement Alimentaire (TCA)</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" direction="rtl" padding="0">
-      <mj-column width="50%">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" width="481px" src="https://i.ibb.co/Q6Fg7VW/02sm14122024.jpg"></mj-image>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="481px" src="https://i.ibb.co/Q6Fg7VW/02sm14122024.jpg" alt=""></mj-image>
       </mj-column>
-      <mj-column width="50%">
-        <mj-text mj-class="T+2">Santé Humaine</mj-text>
-        <mj-text mj-class="T+1">Secrétaire médical(e)</mj-text>
-        <mj-text mj-class="T+1">AEPE</mj-text>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-text mj-class="T+2" padding-bottom="0">Santé Humaine</mj-text>
+        <mj-text mj-class="T" padding-bottom="0">Secrétaire médical(e)</mj-text>
+        <mj-text mj-class="T" padding-bootom="0"><span style="font-weight:700">AEPE</span> Accompagnant(e) Éducatif Petite Enfance</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="0">
-      <mj-column width="50%">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" width="481px" src="https://i.ibb.co/8DhSw8c/02supveto14122024.jpg"></mj-image>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="481px" src="https://i.ibb.co/8DhSw8c/02supveto14122024.jpg" alt=""></mj-image>
       </mj-column>
-      <mj-column width="50%">
-        <mj-text mj-class="T+2">Supveto</mj-text>
-        <mj-text mj-class="T+1">Auxiliaire de Service Vétérinaire</mj-text>
-        <mj-text mj-class="T+1">Bachelor</mj-text>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-text mj-class="T+2" padding-bottom="0">Supveto</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700">ASV</span> Auxiliaire de Service Vétérinaire</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700">Bachelor</span> Chargé(e) de gestion et management en structure animalière</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#dfdfdf" padding="0">
