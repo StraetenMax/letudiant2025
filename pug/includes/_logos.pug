@@ -1,23 +1,23 @@
 -
     const logosList1 = [
         {
-            'image':'https://i.ibb.co/8z2m91y/LogoA2.jpg',
-            'alt':'logo Global Hôtel Alliance'
+            'image':'https://i.ibb.co/ctL8M04/Qualiopi.png',
+            'alt':'logo Qualiopi, actions de formation et actions de formation en apprentissage'
         },
         {
-            'image':'https://i.ibb.co/qNZP5dP/LogoA14.jpg',
-            'alt':'logo Hôtel Moustache'
+            'image':'https://i.ibb.co/hy7kBKM/Plan-de-travail-1.png',
+            'alt':'logo France Compétences certification enregistrée au RNCP'
         }
     ]
 -
     const logosList2 = [
         {
-            'image':'https://i.ibb.co/JrbkKBG/Hotellerie20.jpg',
-            'alt':'logo Hôtel Le Bristol Paris'
+            'image':'https://i.ibb.co/CB7LnXd/Parcours-Priv.png',
+            'alt':'logo Parcours Privé'
         },
         {
-            'image':'https://i.ibb.co/VHwDR7d/LogoA13.jpg',
-            'alt':'logo des 3 Brasseurs'
+            'image':'https://i.ibb.co/txZVLGf/Kalysco.png',
+            'alt':'logo Kalysco les écoles éthiques'
         }
     ]
 
@@ -25,9 +25,9 @@
 mj-section(background-color="#ffffff" padding="20px 50px") 
     mj-group(width="240px")
         each logo in logosList1
-            mj-column(width="50%" padding="10px")
+            mj-column(width="50%" padding="10px" vertical-align="middle")
                 mj-image(padding="0" border="none" width="150px" src=logo.image alt=logo.alt)/
     mj-group(width="240px")
         each logo in logosList2
-            mj-column(width="50%" padding="10px")
+            mj-column(width="50%" padding="10px" vertical-align="middle")
                 mj-image(padding="0" border="none" width="150px" src=logo.image alt=logo.alt)/
