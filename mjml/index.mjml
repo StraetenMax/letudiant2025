@@ -61,48 +61,48 @@
     <mj-section padding="0">
       <mj-group width="50%">
         <mj-column width="33.333333%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/M6HZFB0/img-JPO25012025.jpg"></mj-image>
+          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/Tkb0tF0/assColor.jpg" alt="bandeau de couleur Ecosup Assurance"></mj-image>
         </mj-column>
         <mj-column width="33.333334%">
           <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/1nKQ43L/01tourisme14122024.jpg"></mj-image>
         </mj-column>
         <mj-column width="33.333333%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/K5gY9Bw/comColor.jpg"></mj-image>
+          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/ByYR1pn/comColor.jpg"></mj-image>
         </mj-column>
       </mj-group>
       <mj-group width="50%">
         <mj-column width="33.333333%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/nPZTFz2/diet-Color.jpg"></mj-image>
+          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/XSNX6Fb/comPhoto.jpg"></mj-image>
         </mj-column>
         <mj-column width="33.333334%">
           <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/WtQ7Rvr/diet-Photo.jpg"></mj-image>
         </mj-column>
         <mj-column width="33.333333%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/L5NQDCr/ImageG.jpg"></mj-image>
+          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/nPZTFz2/diet-Color.jpg"></mj-image>
         </mj-column>
       </mj-group>
     </mj-section>
     <mj-section padding="0">
       <mj-group width="50%">
         <mj-column width="33.333333%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/vkWnmqk/supveto2.gif"></mj-image>
+          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/M6HZFB0/img-JPO25012025.jpg"></mj-image>
         </mj-column>
         <mj-column width="33.333334%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/1nKQ43L/01tourisme14122024.jpg"></mj-image>
+          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/sCjSDRv/tour-Color.jpg" alt="bandeau de couleur Ecosup Tourisme"></mj-image>
         </mj-column>
         <mj-column width="33.333333%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/1nKQ43L/01tourisme14122024.jpg"></mj-image>
+          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/1nKQ43L/01tourisme14122024.jpg" alt="groupe d'étudiants accompagné par un intervenant"></mj-image>
         </mj-column>
       </mj-group>
       <mj-group width="50%">
         <mj-column width="33.333333%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/M6HZFB0/img-JPO25012025.jpg" alt="affiche de la JPO du 25 janvier 2025 de 9h30 à 17h"></mj-image>
+          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/17xBn5w/supveto-Color.jpg" alt="bandeau de couleur Supveto"></mj-image>
         </mj-column>
         <mj-column width="33.333334%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/L5NQDCr/ImageG.jpg"></mj-image>
+          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/6FpWHKY/supveto-Photo.jpg" alt="Auxiliaire de service vétérinaire se faisant lècher par son chien"></mj-image>
         </mj-column>
         <mj-column width="33.333333%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/L5NQDCr/ImageG.jpg"></mj-image>
+          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/M6HZFB0/img-JPO25012025.jpg" alt="affiche de la JPO du 25 janvier 2025 de 9h30 à 17h"></mj-image>
         </mj-column>
       </mj-group>
     </mj-section>
@@ -123,7 +123,7 @@
           <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/YkrNm2c/supveto.gif"></mj-image>
         </mj-column>
         <mj-column width="33.333334%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/L5NQDCr/ImageG.jpg"></mj-image>
+          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/Th0Y7R9/smPhoto.jpg"></mj-image>
         </mj-column>
         <mj-column width="33.333333%">
           <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/4j8Lvfr/petit-Enfance.jpg"></mj-image>
