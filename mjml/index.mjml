@@ -127,7 +127,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding="0 30px">
       <mj-column width="80%">
-        <mj-text mj-class="T+2 ct+1" padding="20px 0 3px 0">Samedi 25 janvier à Ecosup</mj-text>
+        <mj-text mj-class="T+2 ct+1" padding="20px 0 3px 0">JPO Samedi 25 janvier à Ecosup</mj-text>
         <mj-text mj-class="T+3 cT+1" padding="0">Rencontres d'un autre type pour que l'avenir soit entre vos mains !</mj-text>
       </mj-column>
     </mj-section>
