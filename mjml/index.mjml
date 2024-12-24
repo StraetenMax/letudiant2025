@@ -53,6 +53,11 @@
     </mj-style>
   </mj-head>
   <mj-body background-color="#efefef">
+    <mj-section mj-class="bg+1" border-radius="3px 3px 0 0" padding="20px 30px">
+      <mj-column>
+        <mj-image align="left" padding="0" border="none" width="120px" src="https://i.ibb.co/8K8y4kW/ECOSUP-CAMPUS-Blanc012024.png" alt="logo Ecosup Campus"></mj-image>
+      </mj-column>
+    </mj-section>
     <mj-section padding="0">
       <mj-group width="50%">
         <mj-column width="33.333333%">
@@ -266,7 +271,7 @@
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section mj-class="bg-0" padding-bottom="40px" border-radius="0 0 20px 20px">
+    <mj-section mj-class="bg-0" padding-bottom="40px" border-radius="0 0 3px 3px">
       <mj-column width="265px">
         <mj-text padding-top="0" padding-bottom="0" font-size="16px" font-weight="900" color="#ffffff" css-class="m-footer">ECOSUP CAMPUS</mj-text>
         <mj-text padding-top="0" padding-bottom="0" mj-class="T-1" color="#ffffff" css-class="m-footer">17 Place Charles et Albert Roussel,</mj-text>
