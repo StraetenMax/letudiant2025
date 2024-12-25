@@ -44,6 +44,11 @@
     </mj-style>
   </mj-head>
   <mj-body background-color="#efefef">
+    <mj-section background-color="#ffffff" padding-bottom="30px">
+      <mj-column>
+        <mj-image align="center" padding="0" border="none" width="200px" src="https://i.ibb.co/F0kfF0m/ECOSUPCAMPUS012024.png" alt="logo Ecosup Campus"></mj-image>
+      </mj-column>
+    </mj-section>
     <mj-section mj-class="bg+1" padding="0">
       <mj-group>
         <mj-column width="30%">
