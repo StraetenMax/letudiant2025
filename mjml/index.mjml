@@ -49,20 +49,18 @@
         <mj-image align="center" padding="0" border="none" width="200px" src="https://i.ibb.co/F0kfF0m/ECOSUPCAMPUS012024.png" alt="logo Ecosup Campus"></mj-image>
       </mj-column>
     </mj-section>
-    <mj-section mj-class="bg+1" padding="0">
-      <mj-group>
-        <mj-column width="30%">
-          <mj-image padding="0" border="none" src="https://i.ibb.co/M6HZFB0/img-JPO25012025.jpg"></mj-image>
-        </mj-column>
-        <mj-column width="70%">
-          <mj-image padding="0" border="none" src="https://i.ibb.co/L5NQDCr/ImageG.jpg"></mj-image>
-        </mj-column>
-      </mj-group>
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column width="30%">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="480px" src="https://i.ibb.co/M6HZFB0/img-JPO25012025.jpg"></mj-image>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-image padding="0" border="none" fluid-on-mobile="0" width="420px" src="https://i.ibb.co/L5NQDCr/ImageG.jpg"></mj-image>
+      </mj-column>
     </mj-section>
-    <mj-section>
-      <mj-column>
-        <mj-text mj-class="T+2"> Samedi 25 janvier à Ecosup</mj-text>
-        <mj-text mj-class="T+3"> Rencontres d'un autre type pour que l'avenir soit entre vos mains !</mj-text>
+    <mj-section background-color="#ffffff" padding-top="5px" padding-bottom="0px" padding-left="30px" padding-right="30px">
+      <mj-column width="80%">
+        <mj-text mj-class="T+2 cT+0" padding="5px 0"> JPO Samedi 25 janvier à Ecosup</mj-text>
+        <mj-text mj-class="T+3 cT+1" padding="0px"> Rencontres d'un autre type pour que l'avenir soit entre vos mains !</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px 30px">
