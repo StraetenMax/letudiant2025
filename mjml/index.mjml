@@ -37,103 +37,33 @@
       }
       
       @media(max-width:480px){
-          .m-footer div{
-              text-align: center !important;
-              width: 100% !important;
-          }
-          .m-footer1 {
-              text-align: center !important;
-              width: 100% !important;
-              padding-top:10px !important;
-          }
           .stop{
               display: none !important;
+          }
+          .espace{
+              height:200px;
           }
       }
     </mj-style>
   </mj-head>
   <mj-body background-color="#efefef">
-    <mj-section mj-class="bg+1" border-radius="3px 3px 0 0" padding="20px 30px">
+    <mj-section background-color="#ffffff" padding-bottom="30px">
       <mj-column>
-        <mj-image align="left" padding="0" border="none" width="120px" src="https://i.ibb.co/8K8y4kW/ECOSUP-CAMPUS-Blanc012024.png" alt="logo Ecosup Campus"></mj-image>
+        <mj-image align="center" padding="0" border="none" width="200px" src="https://i.ibb.co/F0kfF0m/ECOSUPCAMPUS012024.png" alt="logo Ecosup Campus"></mj-image>
       </mj-column>
     </mj-section>
-    <mj-section padding="0">
-      <mj-group width="50%">
-        <mj-column width="33.333333%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/Tkb0tF0/assColor.jpg" alt="bandeau de couleur Ecosup Assurance"></mj-image>
-        </mj-column>
-        <mj-column width="33.333334%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/1nKQ43L/01tourisme14122024.jpg"></mj-image>
-        </mj-column>
-        <mj-column width="33.333333%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/ByYR1pn/comColor.jpg"></mj-image>
-        </mj-column>
-      </mj-group>
-      <mj-group width="50%">
-        <mj-column width="33.333333%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/XSNX6Fb/comPhoto.jpg"></mj-image>
-        </mj-column>
-        <mj-column width="33.333334%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/WtQ7Rvr/diet-Photo.jpg"></mj-image>
-        </mj-column>
-        <mj-column width="33.333333%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/nPZTFz2/diet-Color.jpg"></mj-image>
-        </mj-column>
-      </mj-group>
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column width="30%">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="480px" src="https://i.ibb.co/M6HZFB0/img-JPO25012025.jpg"></mj-image>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-image padding="0" border="none" fluid-on-mobile="0" width="420px" src="https://i.ibb.co/L5NQDCr/ImageG.jpg"></mj-image>
+      </mj-column>
     </mj-section>
-    <mj-section padding="0">
-      <mj-group width="50%">
-        <mj-column width="33.333333%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/M6HZFB0/img-JPO25012025.jpg"></mj-image>
-        </mj-column>
-        <mj-column width="33.333334%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/sCjSDRv/tour-Color.jpg" alt="bandeau de couleur Ecosup Tourisme"></mj-image>
-        </mj-column>
-        <mj-column width="33.333333%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/1nKQ43L/01tourisme14122024.jpg" alt="groupe d'étudiants accompagné par un intervenant"></mj-image>
-        </mj-column>
-      </mj-group>
-      <mj-group width="50%">
-        <mj-column width="33.333333%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/17xBn5w/supveto-Color.jpg" alt="bandeau de couleur Supveto"></mj-image>
-        </mj-column>
-        <mj-column width="33.333334%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/6FpWHKY/supveto-Photo.jpg" alt="Auxiliaire de service vétérinaire se faisant lècher par son chien"></mj-image>
-        </mj-column>
-        <mj-column width="33.333333%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/M6HZFB0/img-JPO25012025.jpg" alt="affiche de la JPO du 25 janvier 2025 de 9h30 à 17h"></mj-image>
-        </mj-column>
-      </mj-group>
-    </mj-section>
-    <mj-section padding="0">
-      <mj-group width="50%">
-        <mj-column width="33.333333%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/M83Pf48/hot-Photo1.jpg"></mj-image>
-        </mj-column>
-        <mj-column width="33.333334%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/L51Wcyw/hot-Photo2.jpg"></mj-image>
-        </mj-column>
-        <mj-column width="33.333333%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/h9QwzXQ/hotColor.jpg"></mj-image>
-        </mj-column>
-      </mj-group>
-      <mj-group width="50%">
-        <mj-column width="33.333333%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/YkrNm2c/supveto.gif"></mj-image>
-        </mj-column>
-        <mj-column width="33.333334%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/Th0Y7R9/smPhoto.jpg"></mj-image>
-        </mj-column>
-        <mj-column width="33.333333%">
-          <mj-image padding="1px" border="none" fluid-on-mobile="true" width="160px" src="https://i.ibb.co/4j8Lvfr/petit-Enfance.jpg"></mj-image>
-        </mj-column>
-      </mj-group>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding="0 30px">
+    <mj-section background-color="#ffffff" padding-top="5px" padding-bottom="0px" padding-left="30px" padding-right="30px">
       <mj-column width="80%">
-        <mj-text mj-class="T+2 ct+1" padding="20px 0 3px 0">JPO Samedi 25 janvier à Ecosup</mj-text>
-        <mj-text mj-class="T+3 cT+1" padding="0">Rencontres d'un autre type pour que l'avenir soit entre vos mains !</mj-text>
+        <mj-text mj-class="T+2 cT+0" padding="5px 0"> JPO Samedi 25 janvier à Ecosup</mj-text>
+        <mj-text mj-class="T+3 cT+1" padding="0px"> Rencontres d'un autre type pour que l'avenir soit entre vos mains !</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px 30px">
@@ -144,147 +74,129 @@
         <mj-text mj-class="T cT+0" padding="5px 0"><span style="font-weight:700;color:#14141f;">Au programme également :</span> visite de nos installations, informations sur nos cursus, démonstrations interactives, jeux de rôles, tests… et surtout, la <span style="font-weight:700;color:#14141f">garantie d'échanges enrichissants et déterminants</span> pour votre avenir.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding="0">
+    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="40px">
       <mj-column>
         <mj-button padding="0" vertical-align="middle" border-radius="5px" mj-class="T bg+1" color="#ffffff" href="https://forms.gle/BMTNBPT9YXD7hKm27"><span style="font-weight:700;">Inscrivez-vous</span> &nbsp;&nbsp;&nbsp;<img style="vertical-align:middle;" width="25px" src="https://i.ibb.co/sv8kscL/inscription.png" href="https://forms.gle/BMTNBPT9YXD7hKm27"/></mj-button>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="0">
-      <mj-column>
-        <mj-spacer height="30px"></mj-spacer>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-image padding="0" fluid-on-mobile="true" border="none" width="481px" src="https://i.ibb.co/PGNXJB4/01img-JPO14122024.jpg" alt=""></mj-image>
       </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding="0 20px">
-      <mj-column width="25%" padding="10px">
-        <mj-image align="left" padding="0" border="none" width="481px" src="https://i.ibb.co/PGNXJB4/01img-JPO14122024.jpg" alt=""></mj-image>
-      </mj-column>
-      <mj-column width="75%" padding="10px">
-        <mj-text mj-class="T+1 cT+1" padding="5px 0" text-transform="uppercase">Hôtellerie / Restauration</mj-text>
-        <mj-text mj-class="T cT+0" padding="0"><span style="font-weight:700;">MAN</span> Mise à Niveau</mj-text>
-        <mj-text mj-class="T cT+0" padding="0"><span style="font-weight:700;">BTS</span> Management de l'Hôtellerie / Restauration</mj-text>
-        <mj-text mj-class="T cT+0" padding="0"><span style="font-weight:700;">Bachelor</span> Chargé(e) de gestion commerciale en hôtellerie</mj-text>
-        <mj-text mj-class="T cT+0" padding="0"><span style="font-weight:700;">Mastère</span> Manager des organisations en hôtellerie</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding="0 20px">
-      <mj-column width="25%" padding="10px">
-        <mj-image align="left" padding="0" border="none" width="481px" src="https://i.ibb.co/3R4dfD0/03tourisme14122024.jpg" alt=""></mj-image>
-      </mj-column>
-      <mj-column width="75%" padding="10px">
-        <mj-text mj-class="T+1 cT+1" padding="5px 0" text-transform="uppercase">Tourisme</mj-text>
-        <mj-text mj-class="T cT+0" padding="0"><span style="font-weight:700;">BTS</span> Tourisme</mj-text>
-        <mj-text mj-class="T cT+0" padding="0"><span style="font-weight:700;">Bachelor</span> Chargé(e) de gestion commerciale en tourisme</mj-text>
-        <mj-text mj-class="T cT+0" padding="0"><span style="font-weight:700;">Mastère</span> Management stratégique des entreprises du tourisme</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding="0 20px">
-      <mj-column width="25%" padding="10px">
-        <mj-image align="left" padding="0" border="none" width="481px" src="https://i.ibb.co/LJcZZW5/01-Commerce14122024-02.jpg" alt=""></mj-image>
-      </mj-column>
-      <mj-column width="75%" padding="10px">
-        <mj-text mj-class="T+1 cT+1" padding="5px 0" text-transform="uppercase">Commerce / Immobilier</mj-text>
-        <mj-text mj-class="T cT+0" padding="0"><span style="font-weight:700;">BTS</span> Professions immobilières</mj-text>
-        <mj-text mj-class="T cT+0" padding="0"><span style="font-weight:700;">BTS</span> Management commercial opérationnel</mj-text>
-        <mj-text mj-class="T cT+0" padding="0"><span style="font-weight:700;">Bachelor</span> Responsable du Développement commercial</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding="0px 20px">
-      <mj-column width="25%" padding="10px"> 
-        <mj-image align="left" padding="0" border="none" width="481px" src="https://i.ibb.co/vdr8Bs4/04assurancejpo14122024.jpg" alt=""></mj-image>
-      </mj-column>
-      <mj-column width="75%" padding="10px">
-        <mj-text mj-class="T+1 cT+1" padding="5px 0" text-transform="uppercase">Assurance / Banque</mj-text>
-        <mj-text mj-class="T cT+0" padding="0"><span style="font-weight:700;">BTS</span> Assurance</mj-text>
-        <mj-text mj-class="T cT+0" padding="0"><span style="font-weight:700;">Bachelor</span> Chargé(e) de clientèles en Assurance et Banque</mj-text>
-        <mj-text mj-class="T cT+0" padding="0"><span style="font-weight:700;">Mastère</span> Expert(e) en Ingénierie patrimoniale</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding="0 20px">
-      <mj-column width="25%" padding="10px">
-        <mj-image align="left" padding="0" border="none" width="481px" src="https://i.ibb.co/9gg9L5N/02diet-JPO14122024.jpg" alt=""></mj-image>
-      </mj-column>
-      <mj-column width="75%" padding="10px">
-        <mj-text mj-class="T+1 cT+1" padding="5px 0" text-transform="uppercase">Diététique / Nutrition</mj-text>
-        <mj-text mj-class="T cT+0" padding="0"><span style="font-weight:700;">BTS</span> Diététique Nutrition</mj-text>
-        <mj-text mj-class="T cT+0" padding="0"><span style="font-weight:700;">Bachelor</span> Chargé(e) de projet en nutrition et de la Prise en charge des Troubles du Comportement Alimentaire (TCA)</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding="0 20px">
-      <mj-column width="25%" padding="10px">
-        <mj-image align="left" padding="0" border="none" width="481px" src="https://i.ibb.co/Q6Fg7VW/02sm14122024.jpg" alt=""></mj-image>
-      </mj-column>
-      <mj-column width="75%" padding="10px">
-        <mj-text mj-class="T+1 cT+1" padding="5px 0" text-transform="uppercase">Santé Humaine</mj-text>
-        <mj-text mj-class="T cT+0" padding="0">Secrétaire médical(e)</mj-text>
-        <mj-text mj-class="T cT+0" padding="0"><span style="font-weight:700">AEPE</span> Accompagnant(e) Éducatif Petite Enfance</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding="0 20px">
-      <mj-column width="25%" padding="10px">
-        <mj-image align="left" padding="0" border="none" width="481px" src="https://i.ibb.co/8DhSw8c/02supveto14122024.jpg" alt=""></mj-image>
-      </mj-column>
-      <mj-column width="75%" padding="10px">
-        <mj-text mj-class="T+1 cT+1" padding="5px 0" text-transform="uppercase">Supveto</mj-text>
-        <mj-text mj-class="T cT+0" padding-left="0px" padding-right="0" padding-top="0" padding-bottom="0"><span style="font-weight:700">ASV</span> Auxiliaire de Service Vétérinaire</mj-text>
-        <mj-text mj-class="T cT+0" padding="0"><span style="font-weight:700">Bachelor</span> Chargé(e) de gestion et management en structure animalière</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding="0">
-      <mj-column>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-text mj-class="T+2" padding-bottom="0">Hôtellerie / Restauration</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">MAN</span> Mise à Niveau</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">BTS</span> Management de l'Hôtellerie / Restauration</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">Bachelor</span> Chargé(e) de gestion commerciale en hôtellerie</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">Mastère</span> Manager des organisations en hôtellerie</mj-text>
         <mj-spacer height="20px"></mj-spacer>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#dfdfdf" padding="20px 20px 0 20px">
-      <mj-column width="40%" padding="10px" vertical-align="middle">
-        <mj-image padding="0" border-right="2px solid #9d9d9d" border-bottom="2px solid #9d9d9d" fluid-on-mobile="true" width="600px" src="https://i.ibb.co/9GXp0fS/carte-JPO14122024.jpg" href="https://www.google.com/maps/dir//+50.72123+,+3.15686" target="_blank" alt="carte des transports permettant d'aller à Ecosup Campus"></mj-image>
+    <mj-section background-color="#ffffff" padding="0" direction="rtl">
+      <mj-column width="50%" vertical-align="middle">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="481px" src="https://i.ibb.co/3R4dfD0/03tourisme14122024.jpg" alt=""></mj-image>
       </mj-column>
-      <mj-column width="60%" padding="10px" vertical-align="middle">
-        <mj-text mj-class="T+1 c+1" text-transform="uppercase">Comment s'y rendre ?</mj-text>
-        <mj-text padding="0" mj-class="T cT+1"><strong class="c11">Accès Métro :</strong> Ligne 2 - station Tourcoing Centre.</mj-text>
-        <mj-text padding="0" mj-class="T cT+1"><strong class="c11">Accès Tramway :</strong> Terminus Tourcoing Centre.</mj-text>
-        <mj-text padding="0" mj-class="T cT+1"><strong class="c11">Accès Bus :</strong> Gare routière de Tourcoing.</mj-text>
-        <mj-text padding="0" mj-class="T cT+1"><strong class="c11">Accès Train :</strong> Gare de Tourcoing puis station de Métro Tourcoing Centre</mj-text>
-        <mj-text padding="0" mj-class="T cT+1"><strong class="c11">Accès Voiture :</strong> Tourcoing centre.</mj-text>
-        <mj-spacer height="10px"/>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-text mj-class="T+2" padding-bottom="0">Tourisme</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700">BTS</span> Tourisme</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">Bachelor</span> Chargé(e) de gestion commerciale en tourisme</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">Mastère</span> Management stratégique des entreprises du tourisme</mj-text>
+        <mj-spacer height="20px"></mj-spacer>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#dfdfdf" padding="10px 30px 30px 30px">
-      <mj-column>
-        <mj-button align="center" vertical-align="middle" border-radius="5px" mj-class="T bg+1" color="#ffffff" href="https://www.google.com/maps/dir//+50.72123+,+3.15686"><span style="font-weight:700;">Préparez votre itinéraire</span> &nbsp;&nbsp;&nbsp;<img style="vertical-align:middle;" width="25px" src="https://i.ibb.co/YRrs7gw/itineraire.png" href="https://www.google.com/maps/dir//+50.72123+,+3.15686"/></mj-button>
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column width="50%" vertical-align="middle">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="481px" src="https://i.ibb.co/LJcZZW5/01-Commerce14122024-02.jpg" alt=""></mj-image>
+      </mj-column>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-text mj-class="T+2" padding-bottom="0">Commerce / Immobilier</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">BTS</span> Professions immobilières</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">BTS</span> Management commercial opérationnel</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">Bachelor</span> Responsable du Développement commercial</mj-text>
+        <mj-spacer height="20px"></mj-spacer>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding="20px 50px"> 
-      <mj-group width="240px">
-        <mj-column width="50%" padding="10px" vertical-align="middle">
-          <mj-image padding="0" border="none" width="150px" src="https://i.ibb.co/ctL8M04/Qualiopi.png" alt="logo Qualiopi, actions de formation et actions de formation en apprentissage"/>
+    <mj-section background-color="#ffffff" padding="0" direction="rtl">
+      <mj-column width="50%" vertical-align="middle"> 
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="481px" src="https://i.ibb.co/vdr8Bs4/04assurancejpo14122024.jpg" alt=""></mj-image>
+      </mj-column>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-text mj-class="T+2" padding-bottom="0">Assurance / Banque</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">BTS</span> Assurance</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">Bachelor</span> Chargé(e) de clientèles en Assurance et Banque</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">Mastère</span> Expert(e) en Ingénierie patrimoniale</mj-text>
+        <mj-text height="20px"></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column width="50%" vertical-align="middle">
+        <mj-image padding="0" fluid-on-mobile="true" border="none" width="481px" src="https://i.ibb.co/9gg9L5N/02diet-JPO14122024.jpg" alt=""></mj-image>
+      </mj-column>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-image width="100px" src="https://i.ibb.co/yhgrY2Q/ecosup-Dietetique-signature.png"></mj-image>
+        <mj-text mj-class="T+2" padding-bottom="0">Diététique / Nutrition</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">BTS</span> Diététique Nutrition</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">Bachelor</span> Chargé(e) de projet en nutrition et de la Prise en charge des Troubles du Comportement Alimentaire (TCA)</mj-text>
+        <mj-spacer height="20px"></mj-spacer>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" direction="rtl" padding="0">
+      <mj-column width="50%" vertical-align="middle">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="481px" src="https://i.ibb.co/Q6Fg7VW/02sm14122024.jpg" alt=""></mj-image>
+      </mj-column>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-text mj-class="T+2" padding-bottom="0">Santé Humaine</mj-text>
+        <mj-text mj-class="T" padding-bottom="0">Secrétaire médical(e)</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700">AEPE</span> Accompagnant(e) Éducatif Petite Enfance</mj-text>
+        <mj-spacer css-class="espace"></mj-spacer>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column width="50%" vertical-align="middle">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="481px" src="https://i.ibb.co/8DhSw8c/02supveto14122024.jpg" alt=""></mj-image>
+      </mj-column>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-text mj-class="T+2" padding-bottom="0">Supveto</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700">ASV</span> Auxiliaire de Service Vétérinaire</mj-text>
+        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700">Bachelor</span> Chargé(e) de gestion et management en structure animalière</mj-text>
+        <mj-spacer css-class="espace"></mj-spacer>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="20px 30px"> 
+      <mj-group>
+        <mj-column width="25%" padding="10px" vertical-align="middle">
+          <mj-image padding="0" border="none" width="150px" src="https://i.ibb.co/ctL8M04/Qualiopi.png" alt="logo Qualiopi, actions de formation et actions de formation en apprentissage"/> 
         </mj-column>
-        <mj-column width="50%" padding="10px" vertical-align="middle">
-          <mj-image padding="0" border="none" width="150px" src="https://i.ibb.co/hy7kBKM/Plan-de-travail-1.png" alt="logo France Compétences certification enregistrée au RNCP"/>
+        <mj-column width="25%" padding="10px" vertical-align="middle">
+          <mj-image padding="0" border="none" width="150px" src="https://i.ibb.co/hy7kBKM/Plan-de-travail-1.png" alt="logo France Compétences certification enregistrée au RNCP"/> 
+        </mj-column>
+        <mj-column width="25%" padding="10px" vertical-align="middle">
+          <mj-image padding="0" border="none" width="150px" src="https://i.ibb.co/CB7LnXd/Parcours-Priv.png" alt="logo Parcours Privé"/> 
+        </mj-column>
+        <mj-column width="25%" padding="10px" vertical-align="middle">
+          <mj-image padding="0" border="none" width="150px" src="https://i.ibb.co/txZVLGf/Kalysco.png" alt="logo Kalysco les écoles éthiques"/> 
         </mj-column>
       </mj-group>
-      <mj-group width="240px">
-        <mj-column width="50%" padding="10px" vertical-align="middle">
-          <mj-image padding="0" border="none" width="150px" src="https://i.ibb.co/CB7LnXd/Parcours-Priv.png" alt="logo Parcours Privé"/>
-        </mj-column>
-        <mj-column width="50%" padding="10px" vertical-align="middle">
-          <mj-image padding="0" border="none" width="150px" src="https://i.ibb.co/txZVLGf/Kalysco.png" alt="logo Kalysco les écoles éthiques"/>
-        </mj-column>
-      </mj-group>
     </mj-section>
-    <mj-section mj-class="bg-0" padding-bottom="40px" border-radius="0 0 3px 3px">
-      <mj-column width="265px">
-        <mj-text padding-top="0" padding-bottom="0" font-size="16px" font-weight="900" color="#ffffff" css-class="m-footer">ECOSUP CAMPUS</mj-text>
-        <mj-text padding-top="0" padding-bottom="0" mj-class="T-1" color="#ffffff" css-class="m-footer">17 Place Charles et Albert Roussel,</mj-text>
-        <mj-text padding-top="0" padding-bottom="0" mj-class="T-1" color="#ffffff" css-class="m-footer">59200 TOURCOING</mj-text>
-        <mj-text padding-top="0" padding-bottom="0" mj-class="T-1" css-class="m-footer"><a style="font-weight:700;text-decoration:none;color:#ffffff" href="tel:0320700606">03.20.70.06.06</a></mj-text>
-        <mj-text padding-top="0" padding-bottom="0" mj-class="T-1" css-class="m-footer"><a style="text-decoration:none;color:#ffffff" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
+    <mj-section background-color="#dfdfdf" padding="20px 20px 40px 20px">
+      <mj-column width="280px" vertical-align="middle">
+        <mj-image padding="20px" width="480px" src="https://i.ibb.co/2FPQzgd/Carte-Tourcoing-Centre.jpg" href="https://www.google.com/maps/dir//+50.72123+,+3.15686" target="_blank" alt="carte des transports permettant d'aller à Ecosup Campus"></mj-image>
+        <mj-button padding="0" vertical-align="middle" border-radius="5px" mj-class="T bg+1" color="#ffffff" href="https://ecosup-campus.com/wp-content/uploads/2024/12/e14122024.ics"><span style="font-weight:700;">Préparez votre itinéraire</span> &nbsp;&nbsp;&nbsp;<img style="vertical-align:middle;" width="25px" src="https://i.ibb.co/YRrs7gw/itineraire.png" href="https://ecosup-campus.com/wp-content/uploads/2024/12/e14122024.ics"/></mj-button>
+        <mj-spacer height="20px"></mj-spacer>
       </mj-column>
-      <mj-column width="265px">
-        <mj-social padding-top="0" padding-bottom="0" align="right" inner-padding="10px" icon-size="30px" mode="horizontal" css-class="m-footer1">
+      <mj-column width="240px" vertical-align="middle">
+        <mj-social padding-top="0" padding-bottom="0" align="center" inner-padding="10px" icon-size="30px" mode="horizontal" css-class="m-footer1">
           <mj-social-element mj-class="bg+1" name="facebook" href="https://www.facebook.com/EcosupCamp"></mj-social-element>
           <mj-social-element mj-class="bg+1" name="instagram" href="https://www.instagram.com/ecosup.campus/"></mj-social-element>
           <mj-social-element mj-class="bg+1" name="linkedin" href="https://fr.linkedin.com/company/ecosup-campus"></mj-social-element>
+          <mj-spacer height="20px"></mj-spacer>
         </mj-social>
+        <mj-image align="center" padding="0" border="none" width="160px" src="https://i.ibb.co/F0kfF0m/ECOSUPCAMPUS012024.png" alt="logo Ecosup Campus"></mj-image>
+        <mj-text align="center" padding="0" mj-class="T-1 cT+1">17 Place Charles et Albert Roussel,</mj-text>
+        <mj-text align="center" padding="0" mj-class="T-1 cT+1">59200 TOURCOING</mj-text>
+        <mj-text align="center" padding="0" mj-class="T-1 cT+1"><a style="font-weight:700;text-decoration:none;color:#14141f" href="tel:0320700606">03.20.70.06.06</a></mj-text>
+        <mj-text align="center" padding="0" mj-class="T-1 cT+1"><a style="text-decoration:none;color:#14141f" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
+        <mj-spacer height="20px"></mj-spacer>
       </mj-column>
     </mj-section>
   </mj-body>
