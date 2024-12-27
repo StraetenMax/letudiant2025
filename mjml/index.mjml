@@ -87,10 +87,10 @@
       <mj-column width="50%" vertical-align="middle">
         <mj-image align="left" padding-bottom="0" border="none" width="100px" src="https://i.ibb.co/yhgrY2Q/ecosup-Dietetique-signature.png" alt=""></mj-image>
         <mj-text mj-class="T+2" padding-bottom="0" letter-spacing="-1px">Hôtellerie / Restauration</mj-text>
-        <mj-text mj-class="T" padding-top="0" padding-bottom="0"><span style="font-weight:700;">MAN</span> Mise à Niveau,</mj-text>
-        <mj-text mj-class="T" padding-top="0" padding-bottom="0"><span style="font-weight:700;">BTS</span> Management de l'Hôtellerie / Restauration,</mj-text>
-        <mj-text mj-class="T" padding-top="0" padding-bottom="0"><span style="font-weight:700;">Bachelor</span> Chargé(e) de gestion commerciale en hôtellerie,</mj-text>
-        <mj-text mj-class="T" padding-top="0" padding-bottom="0"><span style="font-weight:700;">Mastère</span> Manager des organisations en hôtellerie.</mj-text>
+        <mj-text mj-class="T" padding="0 25px"><span style="font-weight:700;">MAN</span> Mise à Niveau,</mj-text>
+        <mj-text mj-class="T" padding="0 25px"><span style="font-weight:700;">BTS</span> Management de l'Hôtellerie / Restauration,</mj-text>
+        <mj-text mj-class="T" padding="0 25px"><span style="font-weight:700;">Bachelor</span> Chargé(e) de gestion commerciale en hôtellerie,</mj-text>
+        <mj-text mj-class="T" padding="0 25px"><span style="font-weight:700;">Mastère</span> Manager des organisations en hôtellerie.</mj-text>
         <mj-spacer css-class="espace"></mj-spacer>
       </mj-column>
     </mj-section>
@@ -99,73 +99,73 @@
         <mj-image padding="0" border="none" width="481px" src="https://i.ibb.co/3R4dfD0/03tourisme14122024.jpg" alt=""></mj-image>
       </mj-column>
       <mj-column width="50%" vertical-align="middle">
-        <mj-image align="left" border="none" padding-bottom="0" width="100px" src="https://i.ibb.co/yhgrY2Q/ecosup-Dietetique-signature.png" alt=""></mj-image>
+        <mj-image align="left" padding-bottom="0" border="none" width="100px" src="https://i.ibb.co/yhgrY2Q/ecosup-Dietetique-signature.png" alt=""></mj-image>
         <mj-text mj-class="T+2" padding-bottom="0">Tourisme</mj-text>
-        <mj-text mj-class="T" padding-top="0" padding-bottom="0"><span style="font-weight:700">BTS</span> Tourisme,</mj-text>
-        <mj-text mj-class="T" padding-top="0" padding-bottom="0"><span style="font-weight:700;">Bachelor</span> Chargé(e) de gestion commerciale en tourisme,</mj-text>
-        <mj-text mj-class="T" padding-top="0" padding-bottom="0"><span style="font-weight:700;">Mastère</span> Management stratégique des entreprises du tourisme.</mj-text>
+        <mj-text mj-class="T" padding="0 25px"><span style="font-weight:700">BTS</span> Tourisme,</mj-text>
+        <mj-text mj-class="T" padding="0 25px"><span style="font-weight:700;">Bachelor</span> Chargé(e) de gestion commerciale en tourisme,</mj-text>
+        <mj-text mj-class="T" padding="0 25px"><span style="font-weight:700;">Mastère</span> Management stratégique des entreprises du tourisme.</mj-text>
         <mj-spacer css-class="espace"></mj-spacer>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="0">
       <mj-column width="50%" vertical-align="middle">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" width="481px" src="https://i.ibb.co/LJcZZW5/01-Commerce14122024-02.jpg" alt=""></mj-image>
+        <mj-image padding="0" border="none" width="481px" src="https://i.ibb.co/LJcZZW5/01-Commerce14122024-02.jpg" alt=""></mj-image>
       </mj-column>
       <mj-column width="50%" vertical-align="middle">
-        <mj-image border="none" width="100px" src="https://i.ibb.co/yhgrY2Q/ecosup-Dietetique-signature.png" alt=""></mj-image>
-        <mj-text mj-class="T+2" padding-bottom="0">Commerce / Immobilier</mj-text>
-        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">BTS</span> Professions immobilières</mj-text>
-        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">BTS</span> Management commercial opérationnel</mj-text>
-        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">Bachelor</span> Responsable du Développement commercial</mj-text>
+        <mj-image align="left" padding-bottom="0" border="none" width="100px" src="https://i.ibb.co/yhgrY2Q/ecosup-Dietetique-signature.png" alt=""></mj-image>
+        <mj-text mj-class="T+2" padding-bottom="0" letter-spacing="-1px">Commerce / Immobilier</mj-text>
+        <mj-text mj-class="T" padding="0 25px"><span style="font-weight:700;">BTS</span> Professions immobilières,</mj-text>
+        <mj-text mj-class="T" padding="0 25px"><span style="font-weight:700;">BTS</span> Management commercial opérationnel,</mj-text>
+        <mj-text mj-class="T" padding="0 25px"><span style="font-weight:700;">Bachelor</span> Responsable du Développement commercial.</mj-text>
         <mj-spacer css-class="espace"></mj-spacer>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="0" direction="rtl">
       <mj-column width="50%" vertical-align="middle"> 
-        <mj-image padding="0" border="none" fluid-on-mobile="true" width="481px" src="https://i.ibb.co/vdr8Bs4/04assurancejpo14122024.jpg" alt=""></mj-image>
+        <mj-image padding="0" border="none" width="481px" src="https://i.ibb.co/vdr8Bs4/04assurancejpo14122024.jpg" alt=""></mj-image>
       </mj-column>
       <mj-column width="50%" vertical-align="middle">
-        <mj-image border="none" width="100px" src="https://i.ibb.co/yhgrY2Q/ecosup-Dietetique-signature.png" alt=""></mj-image>
+        <mj-image align="left" padding-bottom="0" border="none" width="100px" src="https://i.ibb.co/yhgrY2Q/ecosup-Dietetique-signature.png" alt=""></mj-image>
         <mj-text mj-class="T+2" padding-bottom="0">Assurance / Banque</mj-text>
-        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">BTS</span> Assurance</mj-text>
-        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">Bachelor</span> Chargé(e) de clientèles en Assurance et Banque</mj-text>
-        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">Mastère</span> Expert(e) en Ingénierie patrimoniale</mj-text>
+        <mj-text mj-class="T" padding="0 25px"><span style="font-weight:700;">BTS</span> Assurance,</mj-text>
+        <mj-text mj-class="T" padding="0 25px"><span style="font-weight:700;">Bachelor</span> Chargé(e) de clientèles en Assurance et Banque,</mj-text>
+        <mj-text mj-class="T" padding="0 25px"><span style="font-weight:700;">Mastère</span> Expert(e) en Ingénierie patrimoniale.</mj-text>
         <mj-spacer css-class="espace"></mj-spacer>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="0">
       <mj-column width="50%" vertical-align="middle">
-        <mj-image padding="0" fluid-on-mobile="true" border="none" width="481px" src="https://i.ibb.co/9gg9L5N/02diet-JPO14122024.jpg" alt=""></mj-image>
+        <mj-image padding="0" border="none" width="481px" src="https://i.ibb.co/9gg9L5N/02diet-JPO14122024.jpg" alt=""></mj-image>
       </mj-column>
       <mj-column width="50%" vertical-align="middle">
-        <mj-image border="none" width="100px" src="https://i.ibb.co/yhgrY2Q/ecosup-Dietetique-signature.png" alt=""></mj-image>
+        <mj-image align="left" padding-bottom="0" border="none" width="100px" src="https://i.ibb.co/yhgrY2Q/ecosup-Dietetique-signature.png" alt=""></mj-image>
         <mj-text mj-class="T+2" padding-bottom="0">Diététique / Nutrition</mj-text>
-        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">BTS</span> Diététique Nutrition</mj-text>
-        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700;">Bachelor</span> Chargé(e) de projet en nutrition et de la Prise en charge des Troubles du Comportement Alimentaire (TCA)</mj-text>
+        <mj-text mj-class="T" padding="0 25px"><span style="font-weight:700;">BTS</span> Diététique Nutrition,</mj-text>
+        <mj-text mj-class="T" padding="0 25px"><span style="font-weight:700;">Bachelor</span> Chargé(e) de projet en nutrition et de la Prise en charge des Troubles du Comportement Alimentaire (TCA).</mj-text>
         <mj-spacer css-class="espace"></mj-spacer>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" direction="rtl" padding="0">
       <mj-column width="50%" vertical-align="middle">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" width="481px" src="https://i.ibb.co/Q6Fg7VW/02sm14122024.jpg" alt=""></mj-image>
+        <mj-image padding="0" border="none" width="481px" src="https://i.ibb.co/Q6Fg7VW/02sm14122024.jpg" alt=""></mj-image>
       </mj-column>
       <mj-column width="50%" vertical-align="middle">
-        <mj-image border="none" width="100px" src="https://i.ibb.co/yhgrY2Q/ecosup-Dietetique-signature.png" alt=""></mj-image>
+        <mj-image align="left" padding-bottom="0" border="none" width="100px" src="https://i.ibb.co/yhgrY2Q/ecosup-Dietetique-signature.png" alt=""></mj-image>
         <mj-text mj-class="T+2" padding-bottom="0">Santé Humaine</mj-text>
-        <mj-text mj-class="T" padding-bottom="0">Secrétaire médical(e)</mj-text>
-        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700">AEPE</span> Accompagnant(e) Éducatif Petite Enfance</mj-text>
+        <mj-text mj-class="T" padding="0 25px"><span style="font-weight:700">SM</span> Secrétaire médical(e),</mj-text>
+        <mj-text mj-class="T" padding="0 25px"><span style="font-weight:700">AEPE</span> Accompagnant(e) Éducatif Petite Enfance.</mj-text>
         <mj-spacer css-class="espace"></mj-spacer>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="0">
       <mj-column width="50%" vertical-align="middle">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" width="481px" src="https://i.ibb.co/8DhSw8c/02supveto14122024.jpg" alt=""></mj-image>
+        <mj-image padding="0" border="none" width="481px" src="https://i.ibb.co/8DhSw8c/02supveto14122024.jpg" alt=""></mj-image>
       </mj-column>
       <mj-column width="50%" vertical-align="middle">
-        <mj-image border="none" width="100px" src="https://i.ibb.co/yhgrY2Q/ecosup-Dietetique-signature.png" alt=""></mj-image>
+        <mj-image align="left" padding-bottom="0" border="none" width="100px" src="https://i.ibb.co/yhgrY2Q/ecosup-Dietetique-signature.png" alt=""></mj-image>
         <mj-text mj-class="T+2" padding-bottom="0">Supveto</mj-text>
-        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700">ASV</span> Auxiliaire de Service Vétérinaire</mj-text>
-        <mj-text mj-class="T" padding-bottom="0"><span style="font-weight:700">Bachelor</span> Chargé(e) de gestion et management en structure animalière</mj-text>
+        <mj-text mj-class="T" padding="0 25px"><span style="font-weight:700">ASV</span> Auxiliaire de Service Vétérinaire,</mj-text>
+        <mj-text mj-class="T" padding="0 25px"><span style="font-weight:700">Bachelor</span> Chargé(e) de gestion et management en structure animalière.</mj-text>
         <mj-spacer css-class="espace"></mj-spacer>
       </mj-column>
     </mj-section>
