@@ -19,6 +19,7 @@ mjml
             mj-class(name='T-1' font-family="Roboto, Arial, Helvetica, sans-serif" font-size='13px' line-height='15px' font-weight="400")/
             mj-class(name='T-2' font-family="Roboto, Arial, Helvetica, sans-serif" font-size='12px' line-height='16px' font-weight="400")/
             mj-class(name='L' align="left" border-style="solid" border-width="0.75px" width="80px" padding="10px 0")
+            mj-spacer(height="0px")
             //- couleurs modifiables
             mj-class(name="cT+1" color="#14141f" border-color="#14141f")/
             mj-class(name="cT+0" color="#626262")/
@@ -26,7 +27,7 @@ mjml
             mj-class(name="bg-0" background-color="#c31718")/
             mj-class(name="c+1" color="#a01a1d")/
             mj-class(name="bg+1" background-color="#a01a1d")/
-        mj-breakpoint(width="480px")
+        mj-breakpoint(width="550px")
         mj-style.
             .c11{
                 color: #a01a1d !important;
@@ -34,11 +35,8 @@ mjml
             .cT00{
                 color: #626262 !important;
             }
-            .espace{
-                height:0px !important;
-            }
 
-            @media(max-width:480px){
+            @media(max-width:550px){
                 .stop{
                     display: none !important;
                 }
