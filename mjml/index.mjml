@@ -55,10 +55,10 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding="0">
       <mj-column width="30%">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" width="480px" src="https://i.ibb.co/M6HZFB0/img-JPO25012025.jpg"></mj-image>
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="480px" src="https://i.ibb.co/M6HZFB0/img-JPO25012025.jpg" alt="affiche de la Journée Portes Ouvertes du 25 janvier 2025 de 9h30 à 17h"></mj-image>
       </mj-column>
       <mj-column width="70%">
-        <mj-image padding="0" border="none" fluid-on-mobile="0" width="420px" src="https://i.ibb.co/L5NQDCr/ImageG.jpg"></mj-image>
+        <mj-image padding="0" border="none" fluid-on-mobile="0" width="420px" src="https://i.ibb.co/ykzKwfr/Imag-Gr-Etudiants.jpg" alt="groupe d'étudiants"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding-top="5px" padding-bottom="0px" padding-left="30px" padding-right="30px">
