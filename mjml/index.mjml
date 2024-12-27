@@ -30,17 +30,11 @@
     </mj-attributes>
     <mj-breakpoint width="550px"></mj-breakpoint>
     <mj-style>
-      .c11{
-          color: #a01a1d !important;
-      }
-      .cT00{
-          color: #626262 !important;
+      .hover :hover td, .hover :hover a{
+          background-color: #14141f !important;
       }
       
       @media(max-width:550px){
-          .stop{
-              display: none !important;
-          }
           .espace{
               height:50px !important;
           }
@@ -77,7 +71,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding-top="0" padding-bottom="40px">
       <mj-column>
-        <mj-button padding="0" vertical-align="middle" border-radius="5px" mj-class="T bg+1" color="#ffffff" href="https://forms.gle/BMTNBPT9YXD7hKm27"><span style="font-weight:700;">Inscrivez-vous</span> &nbsp;&nbsp;&nbsp;<img style="vertical-align:middle;" width="25px" src="https://i.ibb.co/sv8kscL/inscription.png" href="https://forms.gle/BMTNBPT9YXD7hKm27"/></mj-button>
+        <mj-button css-class="hover" padding="0" vertical-align="middle" border-radius="5px" mj-class="T bg+1" color="#ffffff" href="https://forms.gle/BMTNBPT9YXD7hKm27"><span style="font-weight:700;">Inscrivez-vous</span> &nbsp;&nbsp;&nbsp;<img style="vertical-align:middle;" width="25px" src="https://i.ibb.co/sv8kscL/inscription.png" href="https://forms.gle/BMTNBPT9YXD7hKm27"/></mj-button>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="0">
@@ -188,7 +182,7 @@
     <mj-section background-color="#dfdfdf" padding="20px 20px 40px 20px">
       <mj-column width="280px" vertical-align="middle">
         <mj-image padding="20px" width="480px" src="https://i.ibb.co/2FPQzgd/Carte-Tourcoing-Centre.jpg" href="https://www.google.com/maps/dir//+50.72123+,+3.15686" target="_blank" alt="carte des transports permettant d'aller à Ecosup Campus"></mj-image>
-        <mj-button padding="0" vertical-align="middle" border-radius="5px" mj-class="T bg+1" color="#ffffff" href="https://ecosup-campus.com/wp-content/uploads/2024/12/e14122024.ics"><span style="font-weight:700;">Préparez votre itinéraire</span> &nbsp;&nbsp;&nbsp;<img style="vertical-align:middle;" width="25px" src="https://i.ibb.co/YRrs7gw/itineraire.png" href="https://ecosup-campus.com/wp-content/uploads/2024/12/e14122024.ics"/></mj-button>
+        <mj-button css-class="hover" padding="0" vertical-align="middle" border-radius="5px" mj-class="T bg+1" color="#ffffff" href="https://www.google.com/maps/dir//+50.72123+,+3.15686"><span style="font-weight:700;">Préparez votre itinéraire</span> &nbsp;&nbsp;&nbsp;<img style="vertical-align:middle;" width="25px" src="https://i.ibb.co/YRrs7gw/itineraire.png" href="https://www.google.com/maps/dir//+50.72123+,+3.15686"/></mj-button>
         <mj-spacer height="20px"></mj-spacer>
       </mj-column>
       <mj-column width="240px" vertical-align="middle">
@@ -198,7 +192,7 @@
           <mj-social-element mj-class="bg+1" name="linkedin" href="https://fr.linkedin.com/company/ecosup-campus"></mj-social-element>
           <mj-spacer height="20px"></mj-spacer>
         </mj-social>
-        <mj-image align="center" padding="0" border="none" width="160px" src="https://i.ibb.co/F0kfF0m/ECOSUPCAMPUS012024.png" alt="logo Ecosup Campus"></mj-image>
+        <mj-image align="center" padding="0" border="none" width="160px" src="https://i.ibb.co/F0kfF0m/ECOSUPCAMPUS012024.png" alt="logo Ecosup Campus sans la baseline"></mj-image>
         <mj-text align="center" padding="0" mj-class="T-1 cT+1">17 Place Charles et Albert Roussel,</mj-text>
         <mj-text align="center" padding="0" mj-class="T-1 cT+1">59200 TOURCOING</mj-text>
         <mj-text align="center" padding="0" mj-class="T-1 cT+1"><a style="font-weight:700;text-decoration:none;color:#14141f" href="tel:0320700606">03.20.70.06.06</a></mj-text>
