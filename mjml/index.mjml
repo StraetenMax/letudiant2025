@@ -42,7 +42,7 @@
     </mj-style>
   </mj-head>
   <mj-body background-color="#efefef">
-    <mj-section background-color="#ffffff" padding-bottom="20px 30px">
+    <mj-section background-color="#ffffff" padding-bottom="30px">
       <mj-column>
         <mj-image align="center" padding="0" border="none" width="200px" src="https://i.ibb.co/mFm2yF8/logo-Ecosup-Campus.png" alt="logo Ecosup Campus avec la baseline"></mj-image>
       </mj-column>
@@ -163,18 +163,20 @@
         <mj-spacer css-class="espace"></mj-spacer>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding="20px 30px"> 
-      <mj-group>
-        <mj-column width="25%" padding="10px" vertical-align="middle">
+    <mj-section background-color="#ffffff" padding="20px"> 
+      <mj-group width="50%">
+        <mj-column width="50%" padding="10px" vertical-align="middle">
           <mj-image padding="0" border="none" width="150px" src="https://i.ibb.co/ctL8M04/Qualiopi.png" alt="logo Qualiopi, actions de formation et actions de formation en apprentissage"/> 
         </mj-column>
-        <mj-column width="25%" padding="10px" vertical-align="middle">
+        <mj-column width="50%" padding="10px" vertical-align="middle">
           <mj-image padding="0" border="none" width="150px" src="https://i.ibb.co/hy7kBKM/Plan-de-travail-1.png" alt="logo France Compétences certification enregistrée au RNCP"/> 
         </mj-column>
-        <mj-column width="25%" padding="10px" vertical-align="middle">
+      </mj-group>
+      <mj-group width="50%">
+        <mj-column width="50%" padding="10px" vertical-align="middle">
           <mj-image padding="0" border="none" width="150px" src="https://i.ibb.co/CB7LnXd/Parcours-Priv.png" alt="logo Parcours Privé"/> 
         </mj-column>
-        <mj-column width="25%" padding="10px" vertical-align="middle">
+        <mj-column width="50%" padding="10px" vertical-align="middle">
           <mj-image padding="0" border="none" width="150px" src="https://i.ibb.co/txZVLGf/Kalysco.png" alt="logo Kalysco les écoles éthiques"/> 
         </mj-column>
       </mj-group>

@@ -1,5 +1,5 @@
 -
-    const logosList = [
+    const logosList1 = [
         {
             'image':'https://i.ibb.co/ctL8M04/Qualiopi.png',
             'alt':'logo Qualiopi, actions de formation et actions de formation en apprentissage'
@@ -7,7 +7,10 @@
         {
             'image':'https://i.ibb.co/hy7kBKM/Plan-de-travail-1.png',
             'alt':'logo France Compétences certification enregistrée au RNCP'
-        },
+        }
+    ]
+-
+    const logosList2 = [
         {
             'image':'https://i.ibb.co/CB7LnXd/Parcours-Priv.png',
             'alt':'logo Parcours Privé'
@@ -17,8 +20,12 @@
             'alt':'logo Kalysco les écoles éthiques'
         }
     ]
-mj-section(background-color="#ffffff" padding="20px 30px") 
-    mj-group
-        each logo in logosList
-            mj-column(width="25%" padding="10px" vertical-align="middle")
+mj-section(background-color="#ffffff" padding="20px") 
+    mj-group(width="50%")
+        each logo in logosList1
+            mj-column(width="50%" padding="10px" vertical-align="middle")
+                mj-image(padding="0" border="none" width="150px" src=logo.image alt=logo.alt)/ 
+    mj-group(width="50%")
+        each logo in logosList2
+            mj-column(width="50%" padding="10px" vertical-align="middle")
                 mj-image(padding="0" border="none" width="150px" src=logo.image alt=logo.alt)/ 
