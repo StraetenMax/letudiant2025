@@ -44,15 +44,15 @@
   <mj-body background-color="#efefef">
     <mj-section background-color="#ffffff" padding-bottom="30px">
       <mj-column>
-        <mj-image align="center" padding="0" border="none" width="200px" src="https://i.ibb.co/mFm2yF8/logo-Ecosup-Campus.png" alt="logo Ecosup Campus avec la baseline"></mj-image>
+        <mj-image align="center" padding="0" border="none" width="200px" src="images/logoEcosupCampusSign.png" alt="logo Ecosup Campus avec la baseline"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="0">
       <mj-column width="30%">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" width="480px" src="https://i.ibb.co/M6HZFB0/img-JPO25012025.jpg" alt="affiche de la Journée Portes Ouvertes du 25 janvier 2025 de 9h30 à 17h"></mj-image>
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="480px" src="images/afficheJPO012025.jpg" alt="affiche de la Journée Portes Ouvertes du 25 janvier 2025 de 9h30 à 17h"></mj-image>
       </mj-column>
       <mj-column width="70%">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" width="420px" src="https://i.ibb.co/ykzKwfr/Imag-Gr-Etudiants.jpg" alt="groupe d'étudiants"></mj-image>
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="420px" src="images/ImgGroupEtudiants.jpg" alt="groupe d'étudiants"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding-top="5px" padding-bottom="0px" padding-left="30px" padding-right="30px">
@@ -78,15 +78,15 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding-top="0" padding-bottom="40px">
       <mj-column>
-        <mj-button css-class="hover" padding="0" vertical-align="middle" border-radius="5px" mj-class="T bg+1" color="#ffffff" href="https://forms.gle/BMTNBPT9YXD7hKm27"><span style="font-weight:700;">Inscrivez-vous</span> &nbsp;&nbsp;&nbsp;<img style="vertical-align:middle;" width="25px" src="https://i.ibb.co/sv8kscL/inscription.png" href="https://forms.gle/BMTNBPT9YXD7hKm27"/></mj-button>
+        <mj-button css-class="hover" padding="0" vertical-align="middle" border-radius="5px" mj-class="T bg+1" color="#ffffff" href="https://forms.gle/BMTNBPT9YXD7hKm27"><span style="font-weight:700;">Inscrivez-vous</span> &nbsp;&nbsp;&nbsp;<img style="vertical-align:middle;" width="25px" src="images/inscription.png" href="https://forms.gle/BMTNBPT9YXD7hKm27"/></mj-button>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="0">
       <mj-column width="50%" vertical-align="middle" background-color="#efefef">
-        <mj-image padding="0" border="none" width="481px" src="https://i.ibb.co/PGNXJB4/01img-JPO14122024.jpg" alt="formation de l'Hôtellerie et de la restauration : élaboration d'un plat gastronomique"></mj-image>
+        <mj-image padding="0" border="none" width="481px" src="images/01hotellerie.jpg" alt="formation de l'Hôtellerie et de la restauration : élaboration d'un plat gastronomique"></mj-image>
       </mj-column>
       <mj-column width="50%" vertical-align="middle">
-        <mj-image align="left" padding-bottom="0" border="none" width="100px" src="https://i.ibb.co/ZGht1kv/logo-EHotellerie.png" alt="logo Ecosup Hôtellerie"></mj-image>
+        <mj-image align="left" padding-bottom="0" border="none" width="100px" src="images/logoEHotellerie.png" alt="logo Ecosup Hôtellerie"></mj-image>
         <mj-text mj-class="T+2 cT+1" padding-bottom="0" letter-spacing="-1px">Hôtellerie / Restauration</mj-text>
         <mj-text mj-class="T cT+0" padding="0 25px"><span style="font-weight:700;color:#14141f;">MAN</span> Mise à Niveau,</mj-text>
         <mj-text mj-class="T cT+0" padding="0 25px"><span style="font-weight:700;color:#14141f;">BTS</span> Management de l'Hôtellerie / Restauration,</mj-text>
@@ -97,10 +97,10 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding="0" direction="rtl">
       <mj-column width="50%" vertical-align="middle" background-color="#efefef">
-        <mj-image padding="0" border="none" width="481px" src="https://i.ibb.co/3R4dfD0/03tourisme14122024.jpg" alt="formation du Tourisme : mappemonde, boussole et avion."></mj-image>
+        <mj-image padding="0" border="none" width="481px" src="images/02tourisme.jpg" alt="formation du Tourisme : mappemonde, boussole et avion."></mj-image>
       </mj-column>
       <mj-column width="50%" vertical-align="middle">
-        <mj-image align="left" padding-bottom="0" border="none" width="100px" src="https://i.ibb.co/x7Dh8V0/logo-ETourisme.png" alt="logo Ecosup Tourisme"></mj-image>
+        <mj-image align="left" padding-bottom="0" border="none" width="100px" src="images/logoETourisme.png" alt="logo Ecosup Tourisme"></mj-image>
         <mj-text mj-class="T+2 cT+1" padding-bottom="0">Tourisme</mj-text>
         <mj-text mj-class="T cT+0" padding="0 25px"><span style="font-weight:700;color:#14141f;">BTS</span> Tourisme,</mj-text>
         <mj-text mj-class="T cT+0" padding="0 25px"><span style="font-weight:700;color:#14141f;">Bachelor</span> Chargé(e) de gestion commerciale en tourisme,</mj-text>
@@ -110,10 +110,10 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding="0">
       <mj-column width="50%" vertical-align="middle" background-color="#efefef">
-        <mj-image padding="0" border="none" width="481px" src="https://i.ibb.co/xgd0kQY/Commerce-Etudiant.jpg" alt="formation commerce marketing : chiffres et études sur le marché et son évolution"></mj-image>
+        <mj-image padding="0" border="none" width="481px" src="images/03commerce.jpg" alt="formation commerce marketing : chiffres et études sur le marché et son évolution"></mj-image>
       </mj-column>
       <mj-column width="50%" vertical-align="middle">
-        <mj-image align="left" padding-bottom="0" border="none" width="100px" src="https://i.ibb.co/wrpwgdn/logo-ECommerce.png" alt="logo Ecosup Commerce"></mj-image>
+        <mj-image align="left" padding-bottom="0" border="none" width="100px" src="images/logoECommerce.png" alt="logo Ecosup Commerce"></mj-image>
         <mj-text mj-class="T+2 cT+1" padding-bottom="0" letter-spacing="-1px">Commerce / Immobilier</mj-text>
         <mj-text mj-class="T cT+0" padding="0 25px"><span style="font-weight:700;color:#14141f;">BTS</span> Professions immobilières,</mj-text>
         <mj-text mj-class="T cT+0" padding="0 25px"><span style="font-weight:700;color:#14141f;">BTS</span> Management commercial opérationnel,</mj-text>
@@ -123,10 +123,10 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding="0" direction="rtl">
       <mj-column width="50%" vertical-align="middle" background-color="#efefef"> 
-        <mj-image padding="0" border="none" width="481px" src="https://i.ibb.co/vdr8Bs4/04assurancejpo14122024.jpg" alt="formation de l'assurance : protection de la famille."></mj-image>
+        <mj-image padding="0" border="none" width="481px" src="images/04assurance.jpg" alt="formation de l'assurance : protection de la famille."></mj-image>
       </mj-column>
       <mj-column width="50%" vertical-align="middle">
-        <mj-image align="left" padding-bottom="0" border="none" width="100px" src="https://i.ibb.co/7r1nj2K/logo-EAssurance.png" alt="logo Ecosup Assurance"></mj-image>
+        <mj-image align="left" padding-bottom="0" border="none" width="100px" src="images/logoEAssurance.png" alt="logo Ecosup Assurance"></mj-image>
         <mj-text mj-class="T+2 cT+1" padding-bottom="0">Assurance / Banque</mj-text>
         <mj-text mj-class="T cT+0" padding="0 25px"><span style="font-weight:700;color:#14141f;">BTS</span> Assurance,</mj-text>
         <mj-text mj-class="T cT+0" padding="0 25px"><span style="font-weight:700;color:#14141f;">Bachelor</span> Chargé(e) de clientèles en Assurance et Banque,</mj-text>
@@ -136,10 +136,10 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding="0">
       <mj-column width="50%" vertical-align="middle" background-color="#efefef">
-        <mj-image padding="0" border="none" width="481px" src="https://i.ibb.co/9gg9L5N/02diet-JPO14122024.jpg" alt="formation de la diététique : balance et mètre de couturière."></mj-image>
+        <mj-image padding="0" border="none" width="481px" src="images/05dietetique.jpg" alt="formation de la diététique : balance et mètre de couturière."></mj-image>
       </mj-column>
       <mj-column width="50%" vertical-align="middle">
-        <mj-image align="left" padding-bottom="0" border="none" width="100px" src="https://i.ibb.co/N1YNCcK/logo-EDietetique.png" alt="logo Ecosup Diététique"></mj-image>
+        <mj-image align="left" padding-bottom="0" border="none" width="100px" src="images/logoEDietetique.png" alt="logo Ecosup Diététique"></mj-image>
         <mj-text mj-class="T+2 cT+1" padding-bottom="0">Diététique / Nutrition</mj-text>
         <mj-text mj-class="T cT+0" padding="0 25px"><span style="font-weight:700;color:#14141f;">BTS</span> Diététique Nutrition,</mj-text>
         <mj-text mj-class="T cT+0" padding="0 25px"><span style="font-weight:700;color:#14141f;">Bachelor</span> Chargé(e) de projet en nutrition et de la Prise en charge des Troubles du Comportement Alimentaire (TCA).</mj-text>
@@ -148,10 +148,10 @@
     </mj-section>
     <mj-section background-color="#ffffff" direction="rtl" padding="0">
       <mj-column width="50%" vertical-align="middle" background-color="#efefef">
-        <mj-image padding="0" border="none" width="481px" src="https://i.ibb.co/VqKRSDF/SMetudiant2025.jpg" alt="formation secrétaire médicale : dactylographie et prise de note"></mj-image>
+        <mj-image padding="0" border="none" width="481px" src="images/06sante.jpg" alt="formation secrétaire médicale : dactylographie et prise de note"></mj-image>
       </mj-column>
       <mj-column width="50%" vertical-align="middle">
-        <mj-image align="left" padding-bottom="0" border="none" width="100px" src="https://i.ibb.co/18LWQj8/logo-ESante.png" alt="logo Ecosup Santé"></mj-image>
+        <mj-image align="left" padding-bottom="0" border="none" width="100px" src="images/logoESante.png" alt="logo Ecosup Santé"></mj-image>
         <mj-text mj-class="T+2 cT+1" padding-bottom="0">Santé Humaine</mj-text>
         <mj-text mj-class="T cT+0" padding="0 25px"><span style="font-weight:700;color:#14141f;">SM</span> Secrétaire médical(e),</mj-text>
         <mj-text mj-class="T cT+0" padding="0 25px"><span style="font-weight:700;color:#14141f;">AEPE</span> Accompagnant(e) Éducatif Petite Enfance.</mj-text>
@@ -160,10 +160,10 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding="0">
       <mj-column width="50%" vertical-align="middle" background-color="#efefef">
-        <mj-image padding="0" border="none" width="481px" src="https://i.ibb.co/5cqH9P1/supveto-Etudiant2025.jpg" alt="formation supvéto : soins aux animaux exotiques"></mj-image>
+        <mj-image padding="0" border="none" width="481px" src="images/07supveto.jpg" alt="formation supvéto : soins aux animaux exotiques"></mj-image>
       </mj-column>
       <mj-column width="50%" vertical-align="middle">
-        <mj-image align="left" padding-bottom="0" border="none" width="100px" src="https://i.ibb.co/Jsh5VZ7/let-Emailling-08.jpg" alt="logo Supveto école des métiers de la santé animale"></mj-image>
+        <mj-image align="left" padding-bottom="0" border="none" width="100px" src="images/supvetoLogo.png" alt="logo Supveto école des métiers de la santé animale"></mj-image>
         <mj-text mj-class="T+2 cT+1" padding-bottom="0">Santé animale</mj-text>
         <mj-text mj-class="T cT+0" padding="0 25px"><span style="font-weight:700;color:#14141f;">ASV</span> Auxiliaire de Service Vétérinaire,</mj-text>
         <mj-text mj-class="T cT+0" padding="0 25px"><span style="font-weight:700;color:#14141f;">Bachelor</span> Chargé(e) de gestion et management en structure animalière.</mj-text>
@@ -173,25 +173,25 @@
     <mj-section background-color="#ffffff" padding="20px"> 
       <mj-group width="50%">
         <mj-column width="50%" padding="10px" vertical-align="middle">
-          <mj-image padding="0" border="none" width="150px" src="https://i.ibb.co/ctL8M04/Qualiopi.png" alt="logo Qualiopi, actions de formation et actions de formation en apprentissage"/> 
+          <mj-image padding="0" border="none" width="150px" src="images/qualiopi.png" alt="logo Qualiopi, actions de formation et actions de formation en apprentissage"/> 
         </mj-column>
         <mj-column width="50%" padding="10px" vertical-align="middle">
-          <mj-image padding="0" border="none" width="150px" src="https://i.ibb.co/hy7kBKM/Plan-de-travail-1.png" alt="logo France Compétences certification enregistrée au RNCP"/> 
+          <mj-image padding="0" border="none" width="150px" src="images/rncp.png" alt="logo France Compétences certification enregistrée au RNCP"/> 
         </mj-column>
       </mj-group>
       <mj-group width="50%">
         <mj-column width="50%" padding="10px" vertical-align="middle">
-          <mj-image padding="0" border="none" width="150px" src="https://i.ibb.co/CB7LnXd/Parcours-Priv.png" alt="logo Parcours Privé"/> 
+          <mj-image padding="0" border="none" width="150px" src="images/parcoursPrive.png" alt="logo Parcours Privé"/> 
         </mj-column>
         <mj-column width="50%" padding="10px" vertical-align="middle">
-          <mj-image padding="0" border="none" width="150px" src="https://i.ibb.co/txZVLGf/Kalysco.png" alt="logo Kalysco les écoles éthiques"/> 
+          <mj-image padding="0" border="none" width="150px" src="images/kalysco.png" alt="logo Kalysco les écoles éthiques"/> 
         </mj-column>
       </mj-group>
     </mj-section>
     <mj-section background-color="#dfdfdf" padding="20px 20px 40px 20px">
       <mj-column width="280px" vertical-align="middle">
-        <mj-image padding="20px" width="480px" src="https://i.ibb.co/2FPQzgd/Carte-Tourcoing-Centre.jpg" href="https://www.google.com/maps/dir/+50.72123+,+3.15686/" target="_blank" alt="carte des transports permettant d'aller à Ecosup Campus"></mj-image>
-        <mj-button css-class="hover" padding="0" vertical-align="middle" border-radius="5px" mj-class="T bg+1" color="#ffffff" href="https://www.google.com/maps/dir/+50.72123+,+3.15686/"><span style="font-weight:700;">Préparez votre itinéraire</span> &nbsp;&nbsp;&nbsp;<img style="vertical-align:middle;" width="25px" src="https://i.ibb.co/YRrs7gw/itineraire.png" href="https://www.google.com/maps/dir/+50.72123+,+3.15686/" alt="icon itinéraire"/></mj-button>
+        <mj-image padding="20px" width="480px" src="images/CarteTourcoing.jpg" href="https://www.google.com/maps/dir/+50.72123+,+3.15686/" target="_blank" alt="carte des transports permettant d'aller à Ecosup Campus"></mj-image>
+        <mj-button css-class="hover" padding="0" vertical-align="middle" border-radius="5px" mj-class="T bg+1" color="#ffffff" href="https://www.google.com/maps/dir/+50.72123+,+3.15686/"><span style="font-weight:700;">Préparez votre itinéraire</span> &nbsp;&nbsp;&nbsp;<img style="vertical-align:middle;" width="25px" src="images/itineraire.png" href="https://www.google.com/maps/dir/+50.72123+,+3.15686/" alt="icon itinéraire"/></mj-button>
         <mj-spacer height="20px"></mj-spacer>
       </mj-column>
       <mj-column width="240px" vertical-align="middle">
@@ -201,7 +201,7 @@
           <mj-social-element mj-class="bg+1" name="linkedin" href="https://fr.linkedin.com/company/ecosup-campus"></mj-social-element>
         </mj-social>
         <mj-spacer height="20px"></mj-spacer>
-        <mj-image align="center" padding="0" border="none" width="160px" src="https://i.ibb.co/F0kfF0m/ECOSUPCAMPUS012024.png" alt="logo Ecosup Campus sans la baseline"></mj-image>
+        <mj-image align="center" padding="0" border="none" width="160px" src="images/ecosupCampus.png" alt="logo Ecosup Campus sans la baseline"></mj-image>
         <mj-text align="center" padding="0" mj-class="T-1 cT+1">17 Place Charles et Albert Roussel,</mj-text>
         <mj-text align="center" padding="0" mj-class="T-1 cT+1">59200 TOURCOING</mj-text>
         <mj-text align="center" padding="0" mj-class="T-1 cT+1"><a style="font-weight:700;text-decoration:none;color:#14141f" href="tel:0320700606">03.20.70.06.06</a></mj-text>
