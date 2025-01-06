@@ -58,12 +58,19 @@
     <mj-section background-color="#ffffff" padding-top="5px" padding-bottom="0px" padding-left="30px" padding-right="30px">
       <mj-column width="80%">
         <mj-text mj-class="T+2 cT+0" padding="5px 0">JPO Samedi 25 janvier à Ecosup</mj-text>
-        <mj-text mj-class="T+3 cT+1" padding="0px">Rencontres d'un autre type pour que l'avenir soit entre vos mains !</mj-text>
+        <mj-text mj-class="T+3 cT+1" padding="0px">Gagnez en Compétences !</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding="20px 30px">
+    <mj-section background-color="#ffffff" padding-top="10px" padding-bottom="20px" padding-left="30px" padding-right="30px">
       <mj-column width="80%">
-        <mj-text mj-class="T cT+0" padding="5px 0">Que vous envisagiez un <span style="font-weight:700;color:#14141f;">BTS</span>, un <span style="font-weight:700;color:#14141f">Bachelor</span> ou un <span style="font-weight:700;color:#14141f">Mastère</span>, à ECOSUP, nous vous offrons tout un panel de formations stimulantes et reconnues dans des domaines très attractifs : <span style="font-weight:700;color:#14141f;">Hôtellerie/Restauration</span>, <span style="font-weight:700;color:#14141f;">Tourisme</span>, <span style="font-weight:700;color:#14141f">Commerce/Marketing</span>, <span style="font-weight:700;color:#14141f;">Assurance/Banque</span>, <span style="font-weight:700;color:#14141f;">Santé humaine</span>, <span style="font-weight:700;color:#14141f;">Diététique/Nutrition</span>, <span style="font-weight:700;color:#14141f;">Secrétariat médical</span>, <span style="font-weight:700;color:#14141f">Petite Enfance</span>, <span style="font-weight:700;color:#14141f">Santé animale (supveto)</span>.</mj-text>
+        <mj-text mj-class="T cT+0" padding="5px 0">Que vous e"nvisagiez une <span style="font-weight:700;color:#14141f;">formation métier</span>, un <span style="font-weight:700;color:#14141f;">BTS</span>, un <span style="font-weight:700;color:#14141f">Bachelor</span> ou un <span style="font-weight:700;color:#14141f">Mastère</span>, à ECOSUP, nous vous offrons tout un panel de formations stimulantes et reconnues dans des domaines très attractifs :</mj-text>
+        <mj-text mj-class="T+1 cT+1" padding-top="0" padding-bottom="0" padding-left="15px" padding-right="0">- Hôtellerie / Restauration,</mj-text>
+        <mj-text mj-class="T+1 cT+1" padding-top="0" padding-bottom="0" padding-left="15px" padding-right="0">- Tourisme,</mj-text>
+        <mj-text mj-class="T+1 cT+1" padding-top="0" padding-bottom="0" padding-left="15px" padding-right="0">- Assurance / Banque,</mj-text>
+        <mj-text mj-class="T+1 cT+1" padding-top="0" padding-bottom="0" padding-left="15px" padding-right="0">- Diététique / Nutrition </mj-text>
+        <mj-text mj-class="T+1 cT+1" padding-top="0" padding-bottom="0" padding-left="15px" padding-right="0">- Secrétariat médical, </mj-text>
+        <mj-text mj-class="T+1 cT+1" padding-top="0" padding-bottom="0" padding-left="15px" padding-right="0">- Petite Enfance,</mj-text>
+        <mj-text mj-class="T+1 cT+1" padding-top="0" padding-bottom="0" padding-left="15px" padding-right="0">- Santé animale (supveto).</mj-text>
         <mj-text mj-class="T cT+0" padding="5px 0">Entre <span style="font-weight:700;color:#14141f">formation initiale et alternance</span> en partenariat avec les entreprises, nous avons les réponses à vos attentes et vous offrons un <span style="font-weight:700;color:#14141f;">encadrement de qualité</span>.</mj-text>
         <mj-text mj-class="T cT+0" padding="5px 0"><span style="font-weight:700;color:#c31718">Samedi 25 janvier de 9h30 à 17h</span>, les équipes pédagogique et administrative, les professionnels engagés à nos côtés et les étudiants seront donc heureux de partager avec vous leur expérience.</mj-text>
         <mj-text mj-class="T cT+0" padding="5px 0"><span style="font-weight:700;color:#14141f;">Au programme également :</span> visite de nos installations, informations sur nos cursus, démonstrations interactives, jeux de rôles, tests… et surtout, la <span style="font-weight:700;color:#14141f">garantie d'échanges enrichissants et déterminants</span> pour votre avenir.</mj-text>
